@@ -1,0 +1,37 @@
+# Energy Demand Forecasting - Requirements
+# Python 3.8+
+
+# Data Processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Statistical Models
+statsmodels>=0.12.0
+scipy>=1.7.0
+
+# Forecasting
+prophet>=1.1.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+lightgbm>=3.2.0
+
+# Deep Learning
+tensorflow>=2.6.0
+keras>=2.4.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Utilities
+joblib>=1.0.0
+python-dateutil>=2.8.0
+
+# Jupyter (for notebook)
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Optional: For hyperparameter optimization
+optuna>=2.10.0  # Bayesian optimization
+hyperopt>=0.2.5  # Alternative optimization
